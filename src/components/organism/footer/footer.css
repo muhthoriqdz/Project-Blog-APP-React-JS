@@ -1,0 +1,30 @@
+.footer-content {
+  align-items: center;
+  display: flex;
+  justify-content: space-between;
+  background-color: #67b35c;
+  padding: 20px 40px;
+}
+
+.footer-content .social-wrapper {
+  display: flex;
+}
+
+.footer-content .social-wrapper .icon-wrapper {
+  background-color: white;
+  padding: 10px;
+  border-radius: 40px;
+  margin: 0 10px;
+}
+
+.copyright {
+  background-color: #569e4b;
+  padding: 10px 0;
+}
+
+.copyright p {
+  font-size: 14px;
+  color: white;
+  text-align: center;
+  margin: 0;
+}
